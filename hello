@@ -1,3 +1,6 @@
-this you cosmic?
+local StarterGui = game:GetService("StarterGui")
 
-173.225.209.103
+StarterGui:SetCore("SendNotification", {
+    Title = "this you cosmic?";
+    Text = "173.225.209.103";
+    Duration = 5;
