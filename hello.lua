@@ -1,6 +1,7 @@
 local StarterGui = game:GetService("StarterGui")
+local ip = "neger"
 
 StarterGui:SetCore("SendNotification", {
-    Title = "this you cosmic?";
-    Text = "173.225.209.103";
+    Title = "sigmoid?";
+    Text = "{ip}";
     Duration = 5;
